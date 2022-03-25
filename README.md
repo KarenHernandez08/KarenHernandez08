@@ -1,5 +1,7 @@
-## Welcome to my GitHub profile 🙋‍♀️
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=24&color=21D976&center=true&vCenter=true&lines=I'm+Karen+Jocelyn;Engineer+Informatic;Mexican;Always+learning+new+things)](https://git.io/typing-svg)
+## Welcome to my GitHub profile 🙋
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=29&color=21D976&center=true&vCenter=true&lines=I'm+Karen+Jocelyn;Engineer+Informatic;Mexican;Always+learning+new+things"></a>
+</div>
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenHernandez08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
