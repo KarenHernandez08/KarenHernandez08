@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile 🙋
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=29&color=21D976&center=true&vCenter=true&lines=I'm+Karen+Jocelyn;Engineer+Informatic;Mexican;Always+learning+new+things"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=29&color=21D976&center=true&vCenter=true&lines=I'm+Karen+Jocelyn;Informatic+Enginner;Mexican;Always+learning+new+things"></a>
 </div>
 
 
