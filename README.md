@@ -4,10 +4,14 @@
 </div>
 
 <div align="center">
-<a hrf="https://twitter.com/Mayjoxd"><img src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/twitter.png" width="40px"></a>
-<a hrf="karenjocelynhdzromero@gmail.com"><img src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/gmail.png"></a>
-<a hrf="https://www.instagram.com/joss_poffs/"><img src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/instagram.png"></a>
-<a hrf=""><img src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/linkedin.png"></a>
+<a hrf="https://twitter.com/Mayjoxd">
+   <img alt="link twwitter"src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/twitter.png" width="40px"></a>
+<a hrf="karenjocelynhdzromero@gmail.com">
+   <img  alt="link gmail"src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/gmail.png" width="40px"></a>
+<a hrf="https://www.instagram.com/joss_poffs/">
+   <img alt="link instagram" src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/instagram.png" width="40px"></a>
+<a hrf="">
+   <img alt="link Linkedin" src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/linkedin.png" width="40px"></a>
 
 
 </div>
