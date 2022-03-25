@@ -11,14 +11,14 @@ about_me={
     'I_am': 'Informatic',
     'country' : 'Mexico',
     'age': 22,
-    'languages':["English", "Spanish"],    
+    'languages':["English", "Spanish"]    
 }
 
 favorites={
     'band':'One Direction',
     'singers':["Harry Styles", "Liam Payne", "Cazzu"],
     'movies':["Pride and Prejudice", "silver linings playbook","Cenicienta", "Harry Potter and the Goblet of Fire"],
-    'books':["Angels and Demonds", "Harry Potter" ],
+    'books':["Angels and Demonds", "Harry Potter" ]
     
 }
 print(about_me, favorites)
