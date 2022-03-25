@@ -1,7 +1,7 @@
-## Welcome to the GitHub profile 🙋‍♀️
+## Welcome to my GitHub profile 🙋‍♀️
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=24&color=21D976&center=true&vCenter=true&lines=I'm+Karen+Jocelyn;Engineer+Informatic;Mexican;Always+learning+new+things)](https://git.io/typing-svg)
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenHernandez08)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenHernandez08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KarenHernandez08/KarenHernandez08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
