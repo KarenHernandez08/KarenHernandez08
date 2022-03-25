@@ -3,18 +3,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=29&color=21D976&center=true&vCenter=true&lines=I'm+Karen+Jocelyn;Informatic+Enginner;Mexican;Always+learning+new+things"></a>
 </div>
 
-<div align="center">
-<a hrf="https://twitter.com/Mayjoxd">
-   <img alt="link twwitter"src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/twitter.png" width="40px"></a>
-<a hrf="karenjocelynhdzromero@gmail.com">
-   <img  alt="link gmail"src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/gmail.png" width="40px"></a>
-<a hrf="https://www.instagram.com/joss_poffs/">
-   <img alt="link instagram" src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/instagram.png" width="40px"></a>
-<a hrf="">
-   <img alt="link Linkedin" src="https://github.com/KarenHernandez08/KarenHernandez08/blob/main/imagenes/linkedin.png" width="40px"></a>
 
-
-</div>
 
 ```python
 
