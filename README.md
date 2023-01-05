@@ -1,6 +1,5 @@
 ## Welcome to my GitHub profile 🙋
-### Hi 👋 My name is Karen Jocelyn Hernández Romero
-===============================================
+Hi 👋 My name is Karen Jocelyn Hernández Romero
 
 * ✉️  You can contact me at [karenjocelynhdzromero@gmail.com](mailto:karenjocelynhdzromero@gmail.com)
 
