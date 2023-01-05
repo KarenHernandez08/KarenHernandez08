@@ -3,7 +3,7 @@
 ===============================================
 
 * ✉️  You can contact me at [karenjocelynhdzromero@gmail.com](mailto:karenjocelynhdzromero@gmail.com)
-* 🧠  I'm learning Python and Django
+
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=29&color=21D976&center=true&vCenter=true&lines=I'm+Karen+Jocelyn;Informatic+Enginner;Mexican;Always+learning+new+things"></a>
 </div>
