@@ -1,11 +1,13 @@
 ## Welcome to my GitHub profile 🙋
-Hi 👋 My name is Karen Jocelyn Hernández Romero
-
-* ✉️  You can contact me at [karenjocelynhdzromero@gmail.com](mailto:karenjocelynhdzromero@gmail.com)
-
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=arial&size=29&color=21D976&center=true&vCenter=true&lines=I'm+Karen+Jocelyn;Informatic+Enginner;Mexican;Always+learning+new+things"></a>
 </div>
+Hi 👋 My name is Karen Jocelyn Hernández Romero
+Backend Python
+--------------
+
+* 🌍  I'm based in Mexico
+* ✉️  You can contact me at [karenjocelynhdzromero@gmail.com](mailto:karenjocelynhdzromero@gmail.com)
 
 
 
@@ -17,7 +19,8 @@ about_me={
     'I_am': 'Informatic',
     'country' : 'Mexico',
     'age': 22,
-    'languages':["English", "Spanish"]    
+    'languages':["English", "Spanish"],
+    'I_love_it':'my boyfriend'
 }
 
 favorites={
