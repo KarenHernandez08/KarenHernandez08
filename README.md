@@ -20,8 +20,7 @@ about_me={
     'I_am': 'Informatic',
     'country' : 'Mexico',
     'age': 22,
-    'languages':["English", "Spanish"],
-    'I_love_it':'my boyfriend'
+    'languages':["English", "Spanish"]
 }
 
 favorites={
@@ -48,9 +47,6 @@ print(about_me, favorites)
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/KarenHernández#6875" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/KarenHernandez08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/joss_poffs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karenhernandez09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Joss_poffs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenHernandez08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
